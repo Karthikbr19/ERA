@@ -1,6 +1,6 @@
 # Session 4 - Architectural Basics (MNIST Classification)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dLte9xibE3OZ8jHZCtztV8KzAXxQYLxN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UiFiZJBYV5gfDmVcNr9YeMMLa54DIdtK#scrollTo=8fDefDhaFlwH)
 
 The goal of this assignment is to reach an accuracy of **99.4%** on the _MNIST test dataset_ with a model having following configurations:
 
