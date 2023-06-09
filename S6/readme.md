@@ -1,4 +1,4 @@
-# Session 4 - Architectural Basics (MNIST Classification)
+# Session 6 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UiFiZJBYV5gfDmVcNr9YeMMLa54DIdtK#scrollTo=8fDefDhaFlwH)
 
