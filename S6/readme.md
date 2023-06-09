@@ -2,10 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UiFiZJBYV5gfDmVcNr9YeMMLa54DIdtK#scrollTo=8fDefDhaFlwH)
 
-The goal of this assignment is to reach an accuracy of **99.4%** on the _MNIST test dataset_ with a model having following configurations:
-
+Assignment
 - Less than 20,000 parameters
-- The desired accuracy should be achieved in less than 20 epochs.
+- 99.4% validation accuracy
+- Less than 20 epochs
 
 ## Model Architecture
 
@@ -20,16 +20,3 @@ The goal of this assignment is to reach an accuracy of **99.4%** on the _MNIST t
 - Batch Size: 32
 - Learning Rate: 0.01
 - Epochs: 10
-
-The model reached the test accuracy of **99.45%** after **10 epochs**. After 19 epochs, the test accuracy was 99.49%
-
-## Project Setup
-
-### On Local System
-
-Install the required packages  
- `$ pip install -r requirements.txt`
-
-### On Google Colab
-
-Select Python 3 as the runtime type and GPU as the harware accelerator.
